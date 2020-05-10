@@ -1,6 +1,6 @@
 INSERT INTO noteful_folders (id, foldername)
 VALUES
-(1, 'Black'),
-(2, 'Blue'),
-(3, 'Pink'),
-(4, 'Purple');
+(1, 'Pets'),
+(2, 'Animals'),
+(3, 'Rodents'),
+(4, 'Trash');
